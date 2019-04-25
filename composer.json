@@ -1,0 +1,25 @@
+{
+    "name": "regarder-avengers-endgame/2019-1-film-streaming-vf-voir-en-francais",
+    "description": "Avengers - Endgame: les frères Russo mettent en garde les fans",
+    "homepage": "https://github.com/regarderlefilm/Regarder-Avengers-Endgame-2019-Film-Streaming-Complet-VF-Voir-En-Francais",
+	"keywords": ["regarder avengers endgame streaming complet 2019 voir vf en francais"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CLIQUEZ ICI POUR REGARDER EN LIGNE",
+            "homepage": "https://dis.rocks/jdqhw",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "aabc\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
